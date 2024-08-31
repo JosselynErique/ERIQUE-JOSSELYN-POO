@@ -1,0 +1,32 @@
+{
+    "01": {
+        "id_producto": "01",
+        "nombre": "Chupetes",
+        "cantidad": 50,
+        "precio": 0.15
+    },
+    "025": {
+        "id_producto": "025",
+        "nombre": "Doritos",
+        "cantidad": 50,
+        "precio": 0.5
+    },
+    "065": {
+        "id_producto": "065",
+        "nombre": "Ruffles",
+        "cantidad": 50,
+        "precio": 1.25
+    },
+    "032": {
+        "id_producto": "032",
+        "nombre": "Coca-cola",
+        "cantidad": 120,
+        "precio": 1.5
+    },
+    "062": {
+        "id_producto": "062",
+        "nombre": "Tic-tac",
+        "cantidad": 25,
+        "precio": 0.65
+    }
+}
